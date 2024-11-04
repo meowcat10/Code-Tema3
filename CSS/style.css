@@ -1,0 +1,6 @@
+
+
+/* This will change 'body' element for the HTML */
+body{
+    background-color: var(--backgroundcolor);
+}
