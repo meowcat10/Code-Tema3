@@ -1,4 +1,20 @@
 :root{
     /* This is used for global values throughout the project */
 
+
+
+
+
+
+
+    /* Crocs - Logo (Color Values) */
+    --Crocs-Black:#141215;
+    --Crocs_Green:#75B809;
+
+    /* RedBull - Logo (Color Values)
+    These are taken from RedBull's own website - https://www.redbull.com/dk-da/energydrink */
+    --RedBull_Blue:#1F3F74;
+    --RedBull_Red:#DE0215;
+    --RedBull_Yellow:#F5D276;
+    --RedBull_Steel:#E0DFE2;
 }
