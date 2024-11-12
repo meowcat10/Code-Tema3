@@ -1,11 +1,24 @@
 
 /* Extra small devices (Phones, 600px and down) */
 @media only screen and (max-width: 600px){
+    .Banner{
+        height:35%;
+        img{
+            height: 50%;
+        }
+    }
+
+    .MobileTop{
+        height:50px;
+        width:100%;
+        background: var(--Figma_Green);
+    }
 
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px){
+@media only screen and (min-width: 600px) {
+
 
 
 }
@@ -13,6 +26,20 @@
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px){
+
+    .GreenPart-1{
+        .Green-1{
+            img{
+                width:80%;
+            }
+        }
+        .Crocs-1{
+            img{
+                width:85%;
+            }
+        }
+    }
+
 
 }
 
@@ -22,9 +49,3 @@
 
 }
 
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px){
-
-
-}

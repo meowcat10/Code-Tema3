@@ -3,18 +3,15 @@
 
 
 
-    /* Media Properties */
 
 
 
-    /* Crocs - Logo (Color Values) */
-    --Crocs-Black:#141215;
-    --Crocs_Green:#75B809;
+    /* Global */
 
-    /* RedBull - Logo (Color Values)
-    These are taken from RedBull's own website - https://www.redbull.com/dk-da/energydrink */
-    --RedBull_Blue:#1F3F74;
-    --RedBull_Red:#DE0215;
-    --RedBull_Yellow:#F5D276;
-    --RedBull_Steel:#E0DFE2;
+
+
+
+
+    /* Values From Figma */
+    --Figma_Green:#5ba048
 }
