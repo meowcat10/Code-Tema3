@@ -3,6 +3,8 @@
 /* This will change 'body' element for the HTML */
 body{
     font-family: 'Sour Gummy', sans-serif;
-
+    background-image:url("../Files/Pictures/RedBull-Background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
 
 }
