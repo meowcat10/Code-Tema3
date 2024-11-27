@@ -27,6 +27,12 @@
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px){
 
+    .Buy-Video-SignUp{
+        img{
+            width:70%;
+        }
+    }
+
     .GreenPart-1{
         .Green-1{
             img{

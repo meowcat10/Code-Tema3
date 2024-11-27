@@ -67,6 +67,18 @@ body{
     align-items: center;
     flex-direction: column;
     gap: 30px;
+    margin-bottom: 20px;
+    margin-top:20px;
+
+    .SignUp{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        p{
+            font-weight:bold;
+        }
+    }
 
     a{
         width:30%;
@@ -94,3 +106,4 @@ body{
         }
     }
 }
+
