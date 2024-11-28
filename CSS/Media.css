@@ -8,6 +8,13 @@
         }
     }
 
+    .OrderPage{
+        .Product{
+            gap:1%;
+        }
+    }
+
+
     .MobileTop{
         height:50px;
         width:100%;
@@ -19,13 +26,24 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 
-
+    .OrderPage{
+        .Product{
+            gap:25%;
+        }
+    }
 
 }
 
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px){
+
+    .OrderPage{
+        .Product{
+            gap:40%;
+        }
+    }
+
 
     .Buy-Video-SignUp{
         img{
@@ -51,7 +69,20 @@
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px){
-
+    .OrderPage{
+        .Product{
+            gap:55%;
+        }
+    }
 
 }
 
+
+@media only screen and (min-width: 1200px){
+    .OrderPage{
+        .Product{
+            gap:70%;
+        }
+    }
+
+}
