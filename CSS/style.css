@@ -71,7 +71,7 @@ a{
     align-items: center;
     flex-direction: column;
     gap: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     margin-top:20px;
 
     .SignUp{
@@ -171,4 +171,14 @@ a{
             box-shadow: 0 0 10px black;
         }
     }
+}
+
+
+.Disclaimer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    text-align: center;
+    margin-bottom: 10px;
 }
